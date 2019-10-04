@@ -24,7 +24,10 @@ def monopoly_with_third_tier
         :four => "$400"
       },
       :names => {
-        
+        :name_one => "Alice",
+        :name_two => "Ben",
+        :name_three => "Malik",
+        :name_four => "Zendaya"
       }
     }
   }
