@@ -1,5 +1,5 @@
 def base_hash
-  hash = Hash.new
+  hash = {:railroads}
 	{}
 end
 
